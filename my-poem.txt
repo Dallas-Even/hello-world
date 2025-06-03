@@ -1,0 +1,12 @@
+Poem line 1a
+poem line 2b
+poem line 3a
+poem line 4b
+
+STANZA CHANGE
+poem etc
+etc
+etc
+etc
+
+ADDED after commit 
